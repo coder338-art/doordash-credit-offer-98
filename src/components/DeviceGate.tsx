@@ -54,6 +54,11 @@ export function DeviceGate({ children }: { children: ReactNode }) {
   return (
     <main className="flex min-h-screen items-center justify-center px-6 py-10">
       <div className="mx-auto flex w-full max-w-sm flex-col items-center text-center">
+        <img
+          src="/gift-card.webp"
+          alt="DoorDash gift card"
+          className="mb-6 h-auto w-40 rounded-xl shadow-sm"
+        />
         <h1 className="text-2xl font-semibold tracking-tight text-foreground">
           Continue on your mobile device
         </h1>
