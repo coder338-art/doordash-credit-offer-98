@@ -81,10 +81,6 @@ function Index() {
           Available in selected countries - US, UK, AU, CA
         </p>
 
-        <p className="mt-4 max-w-xs text-xs leading-relaxed text-muted-foreground">
-          This promotion is not affiliated with or endorsed by DoorDash unless
-          otherwise stated by the offer provider.
-        </p>
       </div>
     </main>
   );
