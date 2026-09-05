@@ -1,4 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router";
+import { DeviceGate } from "@/components/DeviceGate";
 
 export const Route = createFileRoute("/")({
   component: Index,
@@ -31,6 +32,7 @@ const steps = [
 
 function Index() {
   return (
+    <DeviceGate>
     <main className="flex min-h-screen items-center justify-center px-6 py-6 sm:px-8">
       <div className="mx-auto flex w-full max-w-sm flex-col items-center text-center">
         <div className="w-full max-w-[200px]">
@@ -82,5 +84,6 @@ function Index() {
 
       </div>
     </main>
+    </DeviceGate>
   );
 }
