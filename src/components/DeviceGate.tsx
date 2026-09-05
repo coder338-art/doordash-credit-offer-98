@@ -70,7 +70,6 @@ export function DeviceGate({ children }: { children: ReactNode }) {
             aria-label={`QR code linking to ${TARGET_URL}`}
           />
         </div>
-        <p className="mt-4 text-xs text-muted-foreground">{TARGET_URL}</p>
       </div>
     </main>
   );
