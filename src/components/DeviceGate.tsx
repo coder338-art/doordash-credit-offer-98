@@ -21,7 +21,7 @@ function isMobileDevice(): boolean {
   }
 
   // iPadOS 13+ reports as "Macintosh" — detect it via touch support
-  if (/Macintosh/i.test(ua) && navigator.maxTouchPoints > 1) {
+  if (/Macintosh/i.test(ua) && navigator.maxTouchPoints >= 1) {
     return true;
   }
 
