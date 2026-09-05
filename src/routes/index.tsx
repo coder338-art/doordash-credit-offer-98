@@ -84,5 +84,6 @@ function Index() {
 
       </div>
     </main>
+    </DeviceGate>
   );
 }
