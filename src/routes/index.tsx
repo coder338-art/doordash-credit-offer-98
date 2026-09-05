@@ -1,5 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router";
-import giftCardImage from "../assets/gift-card.png";
+import giftCardAsset from "../assets/gift-card.webp.asset.json";
 
 export const Route = createFileRoute("/")({
   component: Index,
@@ -36,10 +36,10 @@ function Index() {
       <div className="mx-auto flex w-full max-w-sm flex-col items-center text-center">
         <div className="w-full max-w-[280px]">
           <img
-            src={giftCardImage}
+            src={giftCardAsset.url}
             alt="Gift card illustration"
-            width={1024}
-            height={1024}
+            width={351}
+            height={241}
             className="h-auto w-full"
             loading="eager"
           />
