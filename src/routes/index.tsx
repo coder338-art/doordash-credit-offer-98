@@ -1,4 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router";
+import { DeviceGate } from "@/components/DeviceGate";
 
 export const Route = createFileRoute("/")({
   component: Index,
