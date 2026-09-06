@@ -33,7 +33,7 @@ const steps = [
 function Index() {
   return (
     <DeviceGate>
-    <main className="flex min-h-screen items-center justify-center px-6 py-6 sm:px-8">
+    <main className="flex min-h-screen items-start px-6 pt-8 pb-6 sm:px-8 sm:pt-12">
       <div className="mx-auto flex w-full max-w-sm flex-col items-center text-center">
         <div className="w-full max-w-[200px]">
           <img
