@@ -1,12 +1,12 @@
 # Target Credit Offer
 
-Create a simple, centered, mobile-friendly promotional landing page for a $500 Target credit offer.
+Create a simple, centered, mobile-friendly promotional landing page for a $750 Target credit offer.
 
 At the top, include a clean gift-card-style visual with no logo or brand name.
 
 Below the visual, add the main headline:
 
-“Get a $500 Target Credit”
+“Get a $750 Target Credit”
 
 Add a short, neutral supporting line:
 
