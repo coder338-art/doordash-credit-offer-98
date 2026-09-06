@@ -1,12 +1,12 @@
-# DoorDash Credit Offer (98)
+# Target Credit Offer
 
-Create a simple, centered, mobile-friendly promotional landing page for a $500 DoorDash credit offer.
+Create a simple, centered, mobile-friendly promotional landing page for a $500 Target credit offer.
 
 At the top, include a clean gift-card-style visual with no logo or brand name.
 
 Below the visual, add the main headline:
 
-“Get a $500 DoorDash Credit”
+“Get a $500 Target Credit”
 
 Add a short, neutral supporting line:
 
@@ -32,7 +32,7 @@ Under the button, add a small neutral note:
 
 Add a small disclosure near the bottom:
 
-“This promotion is not affiliated with or endorsed by DoorDash unless otherwise stated by the offer provider.”
+“This promotion is not affiliated with or endorsed by Target unless otherwise stated by the offer provider.”
 
 Keep the design minimal, clean, modern, trustworthy, and mobile-friendly. Use generous spacing, clear typography, and a simple visual hierarchy.
 

@@ -56,7 +56,7 @@ export function DeviceGate({ children }: { children: ReactNode }) {
       <div className="mx-auto flex w-full max-w-sm flex-col items-center text-center">
         <img
           src="/gift-card.webp"
-          alt="DoorDash gift card"
+          alt="Target gift card"
           className="mb-6 h-auto w-40 rounded-xl shadow-sm"
         />
         <h1 className="text-2xl font-semibold tracking-tight text-foreground">
