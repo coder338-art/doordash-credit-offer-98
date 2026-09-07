@@ -79,7 +79,7 @@ function Index() {
         </a>
 
         <p className="mt-3 text-xs text-muted-foreground">
-          Available in selected countries - US, UK, AU, CA
+          Available in selected countries - United States, United Kingdom, Australia, Canada
         </p>
 
       </div>
