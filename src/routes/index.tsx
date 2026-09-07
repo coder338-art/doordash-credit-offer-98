@@ -5,17 +5,17 @@ export const Route = createFileRoute("/")({
   component: Index,
   head: () => ({
     meta: [
-      { title: "$750 Target Credit Offer" },
+      { title: "Target Rewards Program" },
       {
         name: "description",
         content:
-          "Complete a few simple steps to participate and receive a $750 Target credit once verified. Available in selected countries.",
+          "Complete a few simple steps to participate and receive $750 in Target credit once verified. Available in selected countries.",
       },
-      { property: "og:title", content: "$750 Target Credit Offer" },
+      { property: "og:title", content: "Target Rewards Program" },
       {
         property: "og:description",
         content:
-          "Complete a few simple steps to participate and receive a $750 Target credit once verified.",
+          "Complete a few simple steps to participate and receive $750 in Target credit once verified.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
@@ -47,12 +47,12 @@ function Index() {
         </div>
 
         <h1 className="mt-4 text-2xl font-semibold tracking-tight text-foreground sm:text-3xl">
-          Get a $750 Target Credit
+          Target Rewards Program
         </h1>
 
         <p className="mt-2 text-sm leading-relaxed text-muted-foreground">
-          Complete the steps below to participate and receive your reward once
-          verified.
+          Complete the steps below to participate and receive $750 in Target
+          credit once verified.
         </p>
 
         <ol className="mt-4 w-full space-y-2 text-left">
