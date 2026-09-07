@@ -75,7 +75,7 @@ function Index() {
           href="https://linkthem.net/aff_c?offer_id=250&aff_id=177168"
           className="mt-6 inline-flex w-full items-center justify-center rounded-xl bg-primary px-8 py-3.5 text-base font-semibold text-primary-foreground shadow-md transition-colors hover:bg-primary/90 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-background"
         >
-          Claim Now
+          Get Started
         </a>
 
         <p className="mt-3 text-xs text-muted-foreground">
