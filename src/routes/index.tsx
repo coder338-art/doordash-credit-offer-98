@@ -38,10 +38,10 @@ function Index() {
         <div className="w-full max-w-[200px]">
           <img
             src="/gift-card.webp"
-            alt="Gift card illustration"
+            alt="Target gift card"
             width={351}
             height={241}
-            className="h-auto w-full"
+            className="h-auto w-full rounded-xl shadow-sm"
             loading="eager"
           />
         </div>
