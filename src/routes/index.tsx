@@ -26,7 +26,7 @@ export const Route = createFileRoute("/")({
 const steps = [
   "Click the button below",
   "Enter your email & basic info",
-  "Complete 3 to 5 required deals",
+  "Complete 4 to 5 required deals",
   "Receive your reward once verified",
 ];
 
